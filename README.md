@@ -1,6 +1,6 @@
 # GM 5 Byte key calculator
 
-Tools and reference implementations for reproducing the "GM 5-byte" key derivation flow documented in the SA015BCR platform. The project focuses on understanding how OEM password blobs are transformed into the short authentication keys used by service tools.
+Tools and reference implementations for reproducing the "GM 5-byte" key derivation flow. The project focuses on understanding how OEM password blobs are transformed into the short authentication keys used by service tools.
 
 ## Highlights
 
